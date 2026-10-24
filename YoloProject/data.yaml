@@ -1,0 +1,9 @@
+path: D:\4 程序设计\3 RC比赛\data
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: red_ball
+  1: blue_ball
+  2: basket
