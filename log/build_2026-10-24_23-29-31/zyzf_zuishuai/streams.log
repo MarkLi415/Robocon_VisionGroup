@@ -1,0 +1,238 @@
+[0.011s] Invoking command in '/home/mark-li/robot_ws/build/zyzf_zuishuai': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark-li/robot_ws/install/swjtu_robocon_nb:/home/mark-li/robot_ws/install/domo_python_pkg:/opt/ros/humble /usr/bin/cmake /home/mark-li/robot_ws/src/zyzf_zuishuai -DCMAKE_INSTALL_PREFIX=/home/mark-li/robot_ws/install/zyzf_zuishuai
+[0.068s] -- The C compiler identification is GNU 11.4.0
+[0.116s] -- The CXX compiler identification is GNU 11.4.0
+[0.122s] -- Detecting C compiler ABI info
+[0.173s] -- Detecting C compiler ABI info - done
+[0.180s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.180s] -- Detecting C compile features
+[0.180s] -- Detecting C compile features - done
+[0.182s] -- Detecting CXX compiler ABI info
+[0.244s] -- Detecting CXX compiler ABI info - done
+[0.249s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.249s] -- Detecting CXX compile features
+[0.250s] -- Detecting CXX compile features - done
+[0.251s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.377s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.428s] -- Found rosidl_default_generators: 1.2.1 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.430s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.434s] -- Found rosidl_adapter: 3.1.9 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.456s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.647s] -- Found ament_cmake_ros: 0.10.1 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.786s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.950s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.968s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[0.968s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.990s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[0.990s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.991s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.991s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.011s] -- Found PythonExtra: .so  
+[1.093s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.100s] -- Added test 'lint_cmake' to check CMake code style
+[1.101s] -- Added test 'xmllint' to check XML markup files
+[1.101s] -- Configuring done
+[1.113s] -- Generating done
+[1.117s] -- Build files have been written to: /home/mark-li/robot_ws/build/zyzf_zuishuai
+[1.123s] Invoked command in '/home/mark-li/robot_ws/build/zyzf_zuishuai' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark-li/robot_ws/install/swjtu_robocon_nb:/home/mark-li/robot_ws/install/domo_python_pkg:/opt/ros/humble /usr/bin/cmake /home/mark-li/robot_ws/src/zyzf_zuishuai -DCMAKE_INSTALL_PREFIX=/home/mark-li/robot_ws/install/zyzf_zuishuai
+[1.124s] Invoking command in '/home/mark-li/robot_ws/build/zyzf_zuishuai': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark-li/robot_ws/install/swjtu_robocon_nb:/home/mark-li/robot_ws/install/domo_python_pkg:/opt/ros/humble /usr/bin/cmake --build /home/mark-li/robot_ws/build/zyzf_zuishuai -- -j20 -l20
+[1.157s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[1.166s] [  6%] [34m[1mGenerating Rust code for ROS interfaces[0m
+[1.167s] [  9%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[1.170s] [  9%] Built target ament_cmake_python_copy_zyzf_zuishuai
+[1.293s] running egg_info
+[1.293s] creating zyzf_zuishuai.egg-info
+[1.293s] writing zyzf_zuishuai.egg-info/PKG-INFO
+[1.293s] writing dependency_links to zyzf_zuishuai.egg-info/dependency_links.txt
+[1.293s] writing top-level names to zyzf_zuishuai.egg-info/top_level.txt
+[1.293s] writing manifest file 'zyzf_zuishuai.egg-info/SOURCES.txt'
+[1.294s] reading manifest file 'zyzf_zuishuai.egg-info/SOURCES.txt'
+[1.294s] writing manifest file 'zyzf_zuishuai.egg-info/SOURCES.txt'
+[1.298s] [  9%] Built target zyzf_zuishuai__cpp
+[1.308s] [ 18%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[1.308s] [ 18%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[1.308s] [ 18%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[1.317s] [ 18%] Built target ament_cmake_python_build_zyzf_zuishuai_egg
+[1.320s] [ 18%] Built target zyzf_zuishuai__rs
+[1.345s] [ 21%] [32mBuilding C object CMakeFiles/zyzf_zuishuai__rosidl_generator_c.dir/rosidl_generator_c/zyzf_zuishuai/msg/detail/student_info__functions.c.o[0m
+[1.378s] [ 25%] [32m[1mLinking C shared library libzyzf_zuishuai__rosidl_generator_c.so[0m
+[1.410s] [ 25%] Built target zyzf_zuishuai__rosidl_generator_c
+[1.418s] [ 34%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[1.418s] [ 34%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[1.418s] [ 34%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[1.438s] [ 37%] [32mBuilding CXX object CMakeFiles/zyzf_zuishuai__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/zyzf_zuishuai/msg/student_info__type_support.cpp.o[0m
+[1.447s] [ 40%] [32mBuilding CXX object CMakeFiles/zyzf_zuishuai__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/zyzf_zuishuai/msg/detail/dds_fastrtps/student_info__type_support.cpp.o[0m
+[1.463s] [ 43%] [32mBuilding CXX object CMakeFiles/zyzf_zuishuai__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/zyzf_zuishuai/msg/detail/student_info__type_support.cpp.o[0m
+[1.557s] [ 50%] [32mBuilding CXX object CMakeFiles/zyzf_zuishuai__rosidl_typesupport_c.dir/rosidl_typesupport_c/zyzf_zuishuai/msg/student_info__type_support.cpp.o[0m
+[1.557s] [ 50%] [32mBuilding C object CMakeFiles/zyzf_zuishuai__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/zyzf_zuishuai/msg/detail/student_info__type_support.c.o[0m
+[1.566s] [ 53%] [32mBuilding CXX object CMakeFiles/zyzf_zuishuai__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/zyzf_zuishuai/msg/detail/student_info__type_support_c.cpp.o[0m
+[1.585s] [ 59%] [32m[1mLinking CXX shared library libzyzf_zuishuai__rosidl_typesupport_c.so[0m
+[1.585s] [ 59%] [32m[1mLinking C shared library libzyzf_zuishuai__rosidl_typesupport_introspection_c.so[0m
+[1.611s] [ 59%] Built target zyzf_zuishuai__rosidl_typesupport_introspection_c
+[1.619s] [ 59%] Built target zyzf_zuishuai__rosidl_typesupport_c
+[1.626s] [ 62%] [32m[1mLinking CXX shared library libzyzf_zuishuai__rosidl_typesupport_cpp.so[0m
+[1.646s] [ 65%] [32m[1mLinking CXX shared library libzyzf_zuishuai__rosidl_typesupport_introspection_cpp.so[0m
+[1.660s] [ 65%] Built target zyzf_zuishuai__rosidl_typesupport_cpp
+[1.686s] [ 65%] Built target zyzf_zuishuai__rosidl_typesupport_introspection_cpp
+[1.740s] [ 68%] [32m[1mLinking CXX shared library libzyzf_zuishuai__rosidl_typesupport_fastrtps_cpp.so[0m
+[1.742s] [ 71%] [32m[1mLinking CXX shared library libzyzf_zuishuai__rosidl_typesupport_fastrtps_c.so[0m
+[1.807s] [ 71%] Built target zyzf_zuishuai__rosidl_typesupport_fastrtps_c
+[1.810s] [ 71%] Built target zyzf_zuishuai__rosidl_typesupport_fastrtps_cpp
+[1.827s] [ 71%] Built target zyzf_zuishuai
+[1.845s] [ 75%] [34m[1mGenerating Python code for ROS interfaces[0m
+[1.998s] [ 75%] Built target zyzf_zuishuai__py
+[2.015s] [ 78%] [32mBuilding C object CMakeFiles/zyzf_zuishuai__rosidl_generator_py.dir/rosidl_generator_py/zyzf_zuishuai/msg/_student_info_s.c.o[0m
+[2.072s] [ 81%] [32m[1mLinking C shared library rosidl_generator_py/zyzf_zuishuai/libzyzf_zuishuai__rosidl_generator_py.so[0m
+[2.107s] [ 81%] Built target zyzf_zuishuai__rosidl_generator_py
+[2.124s] [ 84%] [32mBuilding C object CMakeFiles/zyzf_zuishuai__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/zyzf_zuishuai/_zyzf_zuishuai_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[2.125s] [ 90%] [32mBuilding C object CMakeFiles/zyzf_zuishuai__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/zyzf_zuishuai/_zyzf_zuishuai_s.ep.rosidl_typesupport_c.c.o[0m
+[2.125s] [ 90%] [32mBuilding C object CMakeFiles/zyzf_zuishuai__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/zyzf_zuishuai/_zyzf_zuishuai_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[2.180s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/zyzf_zuishuai/zyzf_zuishuai_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[2.182s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/zyzf_zuishuai/zyzf_zuishuai_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[2.187s] [100%] [32m[1mLinking C shared library rosidl_generator_py/zyzf_zuishuai/zyzf_zuishuai_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[2.206s] [100%] Built target zyzf_zuishuai__rosidl_typesupport_c__pyext
+[2.209s] [100%] Built target zyzf_zuishuai__rosidl_typesupport_fastrtps_c__pyext
+[2.215s] [100%] Built target zyzf_zuishuai__rosidl_typesupport_introspection_c__pyext
+[2.225s] Invoked command in '/home/mark-li/robot_ws/build/zyzf_zuishuai' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark-li/robot_ws/install/swjtu_robocon_nb:/home/mark-li/robot_ws/install/domo_python_pkg:/opt/ros/humble /usr/bin/cmake --build /home/mark-li/robot_ws/build/zyzf_zuishuai -- -j20 -l20
+[2.227s] Invoking command in '/home/mark-li/robot_ws/build/zyzf_zuishuai': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark-li/robot_ws/install/swjtu_robocon_nb:/home/mark-li/robot_ws/install/domo_python_pkg:/opt/ros/humble /usr/bin/cmake --install /home/mark-li/robot_ws/build/zyzf_zuishuai
+[2.235s] -- Install configuration: ""
+[2.235s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/ament_index/resource_index/rosidl_interfaces/zyzf_zuishuai
+[2.235s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai
+[2.235s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg
+[2.235s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/student_info.h
+[2.235s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/rosidl_generator_c__visibility_control.h
+[2.235s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail
+[2.235s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__struct.h
+[2.235s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__functions.h
+[2.235s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__type_support.h
+[2.235s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__functions.c
+[2.235s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/environment/library_path.sh
+[2.235s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/environment/library_path.dsv
+[2.235s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_generator_c.so
+[2.236s] -- Set runtime path of "/home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_generator_c.so" to ""
+[2.236s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai
+[2.236s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg
+[2.236s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail
+[2.236s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__rosidl_typesupport_fastrtps_c.h
+[2.236s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.236s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_typesupport_fastrtps_c.so
+[2.236s] -- Set runtime path of "/home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_typesupport_fastrtps_c.so" to ""
+[2.236s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai
+[2.236s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg
+[2.236s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.236s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail
+[2.236s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__type_support.c
+[2.236s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__rosidl_typesupport_introspection_c.h
+[2.236s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_typesupport_introspection_c.so
+[2.236s] -- Set runtime path of "/home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_typesupport_introspection_c.so" to ""
+[2.236s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_typesupport_c.so
+[2.236s] -- Set runtime path of "/home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_typesupport_c.so" to ""
+[2.236s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai
+[2.236s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/rosidl_generator_cpp__visibility_control.hpp
+[2.237s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__traits.hpp
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__builder.hpp
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__type_support.hpp
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__struct.hpp
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/student_info.hpp
+[2.237s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai
+[2.237s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg
+[2.237s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__rosidl_typesupport_fastrtps_cpp.hpp
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/dds_fastrtps
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_typesupport_fastrtps_cpp.so
+[2.237s] -- Set runtime path of "/home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_typesupport_fastrtps_cpp.so" to ""
+[2.237s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai
+[2.237s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg
+[2.237s] -- Up-to-date: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__rosidl_typesupport_introspection_cpp.hpp
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/include/zyzf_zuishuai/zyzf_zuishuai/msg/detail/student_info__type_support.cpp
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_typesupport_introspection_cpp.so
+[2.237s] -- Set runtime path of "/home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_typesupport_introspection_cpp.so" to ""
+[2.237s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_typesupport_cpp.so
+[2.238s] -- Set runtime path of "/home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_typesupport_cpp.so" to ""
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/environment/pythonpath.sh
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/environment/pythonpath.dsv
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai-0.0.0-py3.10.egg-info
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai-0.0.0-py3.10.egg-info/SOURCES.txt
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai-0.0.0-py3.10.egg-info/top_level.txt
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai-0.0.0-py3.10.egg-info/PKG-INFO
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai-0.0.0-py3.10.egg-info/dependency_links.txt
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/_zyzf_zuishuai_s.ep.rosidl_typesupport_introspection_c.c
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/zyzf_zuishuai_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/msg
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/msg/_student_info.py
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/msg/_student_info_s.c
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/msg/__init__.py
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/zyzf_zuishuai_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/__init__.py
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/_zyzf_zuishuai_s.ep.rosidl_typesupport_c.c
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/_zyzf_zuishuai_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.238s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/libzyzf_zuishuai__rosidl_generator_py.so
+[2.239s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/zyzf_zuishuai_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.264s] Listing '/home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai'...
+[2.264s] Compiling '/home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/__init__.py'...
+[2.264s] Listing '/home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/msg'...
+[2.265s] Compiling '/home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/msg/__init__.py'...
+[2.265s] Compiling '/home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/msg/_student_info.py'...
+[2.267s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/zyzf_zuishuai_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.267s] -- Set runtime path of "/home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/zyzf_zuishuai_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[2.267s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/zyzf_zuishuai_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.267s] -- Set runtime path of "/home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/zyzf_zuishuai_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/zyzf_zuishuai_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.268s] -- Set runtime path of "/home/mark-li/robot_ws/install/zyzf_zuishuai/local/lib/python3.10/dist-packages/zyzf_zuishuai/zyzf_zuishuai_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_generator_py.so
+[2.268s] -- Set runtime path of "/home/mark-li/robot_ws/install/zyzf_zuishuai/lib/libzyzf_zuishuai__rosidl_generator_py.so" to ""
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/rust
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/rust/build.rs
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/rust/Cargo.toml
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/rust/src
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/rust/src/msg
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/rust/src/msg/rmw.rs
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/rust/src/msg.rs
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/rust/src/lib.rs
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/msg/StudentInfo.idl
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/msg/StudentInfo.msg
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/ament_index/resource_index/package_run_dependencies/zyzf_zuishuai
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/ament_index/resource_index/parent_prefix_path/zyzf_zuishuai
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/environment/ament_prefix_path.sh
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/environment/ament_prefix_path.dsv
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/environment/path.sh
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/environment/path.dsv
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/local_setup.bash
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/local_setup.sh
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/local_setup.zsh
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/local_setup.dsv
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/package.dsv
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/ament_index/resource_index/packages/zyzf_zuishuai
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/export_zyzf_zuishuai__rosidl_generator_cExport.cmake
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/export_zyzf_zuishuai__rosidl_generator_cExport-noconfig.cmake
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/export_zyzf_zuishuai__rosidl_typesupport_fastrtps_cExport.cmake
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/export_zyzf_zuishuai__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.268s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/zyzf_zuishuai__rosidl_typesupport_introspection_cExport.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/zyzf_zuishuai__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/zyzf_zuishuai__rosidl_typesupport_cExport.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/zyzf_zuishuai__rosidl_typesupport_cExport-noconfig.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/export_zyzf_zuishuai__rosidl_generator_cppExport.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/export_zyzf_zuishuai__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/export_zyzf_zuishuai__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/zyzf_zuishuai__rosidl_typesupport_introspection_cppExport.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/zyzf_zuishuai__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/zyzf_zuishuai__rosidl_typesupport_cppExport.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/zyzf_zuishuai__rosidl_typesupport_cppExport-noconfig.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/export_zyzf_zuishuai__rosidl_generator_pyExport.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/export_zyzf_zuishuai__rosidl_generator_pyExport-noconfig.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/rosidl_cmake-extras.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/ament_cmake_export_libraries-extras.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/ament_cmake_export_targets-extras.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/rosidl_cmake_aggregate_target-extras.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/zyzf_zuishuaiConfig.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/cmake/zyzf_zuishuaiConfig-version.cmake
+[2.269s] -- Installing: /home/mark-li/robot_ws/install/zyzf_zuishuai/share/zyzf_zuishuai/package.xml
+[2.272s] Invoked command in '/home/mark-li/robot_ws/build/zyzf_zuishuai' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark-li/robot_ws/install/swjtu_robocon_nb:/home/mark-li/robot_ws/install/domo_python_pkg:/opt/ros/humble /usr/bin/cmake --install /home/mark-li/robot_ws/build/zyzf_zuishuai

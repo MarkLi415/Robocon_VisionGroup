@@ -1,0 +1,4 @@
+[console_scripts]
+stu_info_pub = swjtu_robocon_nb.stu_info_pub:main
+stu_info_sub = swjtu_robocon_nb.stu_info_sub:main
+

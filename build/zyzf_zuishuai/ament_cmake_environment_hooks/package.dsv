@@ -1,0 +1,4 @@
+source;share/zyzf_zuishuai/local_setup.bash
+source;share/zyzf_zuishuai/local_setup.dsv
+source;share/zyzf_zuishuai/local_setup.sh
+source;share/zyzf_zuishuai/local_setup.zsh

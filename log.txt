@@ -1,0 +1,70 @@
+Script started on 2026-10-24 23:30:55+08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;mark-li@markli-TX-Air-FA401GM: ~/robot_ws[01;32mmark-li@markli-TX-Air-FA401GM[00m:[01;34m~/robot_ws[00m$ ls -lt ~/.ros/log | head -n 5[16Pcd ~/.ros/logros2 run swjtu_robocon_nb stu_info_pub | tee log.txt[A
+]0;mark-li@markli-TX-Air-FA401GM: ~/robot_ws[01;32mmark-li@markli-TX-Air-FA401GM[00m:[01;34m~/robot_ws[00m$ [25Pcd ~/.ros/log
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cros2 run swjtu_robocon_nb stu_info_pub | tee log.txt[K[K[K[K[K[K[K[K[K[K[K[K[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cb 
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kb
+[?2004l
+[0m[INFO] [1792855868.773630921] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855869.765784783] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855870.766064527] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855871.766030613] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855872.765497316] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855873.765967608] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855874.765499905] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855875.766012876] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855876.765955126] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855877.765807785] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855878.765931296] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855879.765902601] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855880.765869887] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855881.765783025] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855882.765777887] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855883.765906630] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855884.765743435] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855885.765932286] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855886.765897599] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855887.765800572] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855888.765933817] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855889.765972947] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855890.765947249] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855891.765980990] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855892.765973661] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855893.765488037] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855894.766181289] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855895.766365686] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855896.766039387] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855897.766095402] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855898.766040663] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855899.766009894] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855900.766038615] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855901.765958903] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855902.765954102] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855903.765991288] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855904.765757178] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855905.765716512] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855906.765723906] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855907.765711033] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855908.765715482] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+[0m[INFO] [1792855909.765945950] [student_info_pub]: zyzf_zuishuai.msg.StudentInfo(student_name='李敏秀', student_id='2026112597', student_sex='男', student_major='人工智能')[0m
+^CTraceback (most recent call last):
+  File "/home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/swjtu_robocon_nb/stu_info_pub", line 33, in <module>
+    sys.exit(load_entry_point('swjtu-robocon-nb==0.0.0', 'console_scripts', 'stu_info_pub')())
+  File "/home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb/stu_info_pub.py", line 25, in main
+    rclpy.spin(node)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/__init__.py", line 229, in spin
+    executor.spin_once()
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 812, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 801, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 784, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 681, in _wait_for_ready_callbacks
+    wait_set.wait(timeout_nsec)
+KeyboardInterrupt
+[ros2run]: Interrupt
+[?2004h]0;mark-li@markli-TX-Air-FA401GM: ~/robot_ws[01;32mmark-li@markli-TX-Air-FA401GM[00m:[01;34m~/robot_ws[00m$ 

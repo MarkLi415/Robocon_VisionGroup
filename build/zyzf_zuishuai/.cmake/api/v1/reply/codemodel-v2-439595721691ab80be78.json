@@ -1,0 +1,258 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-a91f4ca8bf90d8fc7fe7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						18
+					]
+				},
+				{
+					"build" : "zyzf_zuishuai__py",
+					"jsonFile" : "directory-zyzf_zuishuai__py-a287758f511ae78e2b84.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/mark-li/robot_ws/build/zyzf_zuishuai/zyzf_zuishuai__py",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "zyzf_zuishuai__rs",
+					"jsonFile" : "directory-zyzf_zuishuai__rs-f981a699758aa6a49ed0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/mark-li/robot_ws/build/zyzf_zuishuai/zyzf_zuishuai__rs",
+					"targetIndexes" : 
+					[
+						17
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "zyzf_zuishuai",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_zyzf_zuishuai_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_zyzf_zuishuai_egg-a70e01b5206e0203f5cf.json",
+					"name" : "ament_cmake_python_build_zyzf_zuishuai_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_zyzf_zuishuai::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_zyzf_zuishuai-3e3c854123afb33af6ee.json",
+					"name" : "ament_cmake_python_copy_zyzf_zuishuai",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-b6f6198083285f6b7626.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai-1ee77597296559266c13.json",
+					"name" : "zyzf_zuishuai",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai__cpp-98e21e8dff80cebcaa0a.json",
+					"name" : "zyzf_zuishuai__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "zyzf_zuishuai__py::@eb451deb67cdafddc29c",
+					"jsonFile" : "target-zyzf_zuishuai__py-b73560642649e003d4b9.json",
+					"name" : "zyzf_zuishuai__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai__rosidl_generator_c-93095529c051e0823064.json",
+					"name" : "zyzf_zuishuai__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai__rosidl_generator_py-1e2af92c106903ce7a92.json",
+					"name" : "zyzf_zuishuai__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai__rosidl_typesupport_c-467fcce664fa1a96f2f2.json",
+					"name" : "zyzf_zuishuai__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai__rosidl_typesupport_c__pyext-7b4204363bae1a3b3b1c.json",
+					"name" : "zyzf_zuishuai__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai__rosidl_typesupport_cpp-cfdebc1a3ee70d894b49.json",
+					"name" : "zyzf_zuishuai__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai__rosidl_typesupport_fastrtps_c-0641fcead68d8854bf53.json",
+					"name" : "zyzf_zuishuai__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai__rosidl_typesupport_fastrtps_c__pyext-e70cbece567c11b1e6c2.json",
+					"name" : "zyzf_zuishuai__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai__rosidl_typesupport_fastrtps_cpp-481a95c825aa10fd29e7.json",
+					"name" : "zyzf_zuishuai__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai__rosidl_typesupport_introspection_c-8b90ef2b456de2e1a0b7.json",
+					"name" : "zyzf_zuishuai__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai__rosidl_typesupport_introspection_c__pyext-b2c4d56a9593aa8f4d17.json",
+					"name" : "zyzf_zuishuai__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai__rosidl_typesupport_introspection_cpp-a258dc3bbf3b1ff1338a.json",
+					"name" : "zyzf_zuishuai__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "zyzf_zuishuai__rs::@a038cf03c483241444e3",
+					"jsonFile" : "target-zyzf_zuishuai__rs-e01f849691ceb48d8c04.json",
+					"name" : "zyzf_zuishuai__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zyzf_zuishuai_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zyzf_zuishuai_uninstall-1d1f15a8d6da34a1ebd9.json",
+					"name" : "zyzf_zuishuai_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mark-li/robot_ws/build/zyzf_zuishuai",
+		"source" : "/home/mark-li/robot_ws/src/zyzf_zuishuai"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

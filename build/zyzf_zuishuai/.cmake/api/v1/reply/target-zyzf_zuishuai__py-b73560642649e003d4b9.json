@@ -1,0 +1,79 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"/home/mark-li/robot_ws/build/zyzf_zuishuai/zyzf_zuishuai__py/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "zyzf_zuishuai::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "zyzf_zuishuai__py::@eb451deb67cdafddc29c",
+	"name" : "zyzf_zuishuai__py",
+	"paths" : 
+	{
+		"build" : "zyzf_zuishuai__py",
+		"source" : "/home/mark-li/robot_ws/build/zyzf_zuishuai/zyzf_zuishuai__py"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/home/mark-li/robot_ws/build/zyzf_zuishuai/zyzf_zuishuai__py/CMakeFiles/zyzf_zuishuai__py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/mark-li/robot_ws/build/zyzf_zuishuai/zyzf_zuishuai__py/CMakeFiles/zyzf_zuishuai__py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/mark-li/robot_ws/build/zyzf_zuishuai/rosidl_generator_py/zyzf_zuishuai/_zyzf_zuishuai_s.ep.rosidl_typesupport_fastrtps_c.c.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,40 @@
+[0.351s] Invoking command in '/home/mark-li/robot_ws/src/domo_python_pkg': PYTHONPATH=/home/mark-li/robot_ws/build/domo_python_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/domo_python_pkg build --build-base /home/mark-li/robot_ws/build/domo_python_pkg/build install --record /home/mark-li/robot_ws/build/domo_python_pkg/install.log --install-scripts $base/lib/domo_python_pkg --single-version-externally-managed install_data
+[0.467s] running egg_info
+[0.467s] creating ../../build/domo_python_pkg/domo_python_pkg.egg-info
+[0.467s] writing ../../build/domo_python_pkg/domo_python_pkg.egg-info/PKG-INFO
+[0.467s] writing dependency_links to ../../build/domo_python_pkg/domo_python_pkg.egg-info/dependency_links.txt
+[0.467s] writing entry points to ../../build/domo_python_pkg/domo_python_pkg.egg-info/entry_points.txt
+[0.467s] writing requirements to ../../build/domo_python_pkg/domo_python_pkg.egg-info/requires.txt
+[0.467s] writing top-level names to ../../build/domo_python_pkg/domo_python_pkg.egg-info/top_level.txt
+[0.467s] writing manifest file '../../build/domo_python_pkg/domo_python_pkg.egg-info/SOURCES.txt'
+[0.468s] reading manifest file '../../build/domo_python_pkg/domo_python_pkg.egg-info/SOURCES.txt'
+[0.468s] adding license file 'LICENSE'
+[0.468s] writing manifest file '../../build/domo_python_pkg/domo_python_pkg.egg-info/SOURCES.txt'
+[0.468s] running build
+[0.468s] running build_py
+[0.468s] creating /home/mark-li/robot_ws/build/domo_python_pkg/build
+[0.468s] creating /home/mark-li/robot_ws/build/domo_python_pkg/build/lib
+[0.468s] creating /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg
+[0.468s] copying domo_python_pkg/subscriber.py -> /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg
+[0.468s] copying domo_python_pkg/__init__.py -> /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg
+[0.468s] copying domo_python_pkg/publisher.py -> /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg
+[0.468s] running install
+[0.469s] running install_lib
+[0.469s] creating /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg
+[0.469s] copying /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg/subscriber.py -> /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg
+[0.469s] copying /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg/__init__.py -> /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg
+[0.469s] copying /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg/publisher.py -> /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg
+[0.469s] byte-compiling /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg/subscriber.py to subscriber.cpython-310.pyc
+[0.469s] byte-compiling /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg/__init__.py to __init__.cpython-310.pyc
+[0.469s] byte-compiling /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg/publisher.py to publisher.cpython-310.pyc
+[0.469s] running install_data
+[0.469s] creating /home/mark-li/robot_ws/install/domo_python_pkg/share/ament_index
+[0.470s] creating /home/mark-li/robot_ws/install/domo_python_pkg/share/ament_index/resource_index
+[0.470s] creating /home/mark-li/robot_ws/install/domo_python_pkg/share/ament_index/resource_index/packages
+[0.470s] copying resource/domo_python_pkg -> /home/mark-li/robot_ws/install/domo_python_pkg/share/ament_index/resource_index/packages
+[0.470s] copying package.xml -> /home/mark-li/robot_ws/install/domo_python_pkg/share/domo_python_pkg
+[0.470s] running install_egg_info
+[0.470s] Copying ../../build/domo_python_pkg/domo_python_pkg.egg-info to /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg-0.0.0-py3.10.egg-info
+[0.471s] running install_scripts
+[0.482s] writing list of installed files to '/home/mark-li/robot_ws/build/domo_python_pkg/install.log'
+[0.498s] Invoked command in '/home/mark-li/robot_ws/src/domo_python_pkg' returned '0': PYTHONPATH=/home/mark-li/robot_ws/build/domo_python_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/domo_python_pkg build --build-base /home/mark-li/robot_ws/build/domo_python_pkg/build install --record /home/mark-li/robot_ws/build/domo_python_pkg/install.log --install-scripts $base/lib/domo_python_pkg --single-version-externally-managed install_data

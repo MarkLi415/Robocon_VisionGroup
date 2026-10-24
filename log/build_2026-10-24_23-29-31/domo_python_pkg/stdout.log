@@ -1,0 +1,38 @@
+running egg_info
+creating ../../build/domo_python_pkg/domo_python_pkg.egg-info
+writing ../../build/domo_python_pkg/domo_python_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/domo_python_pkg/domo_python_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/domo_python_pkg/domo_python_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/domo_python_pkg/domo_python_pkg.egg-info/requires.txt
+writing top-level names to ../../build/domo_python_pkg/domo_python_pkg.egg-info/top_level.txt
+writing manifest file '../../build/domo_python_pkg/domo_python_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/domo_python_pkg/domo_python_pkg.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/domo_python_pkg/domo_python_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mark-li/robot_ws/build/domo_python_pkg/build
+creating /home/mark-li/robot_ws/build/domo_python_pkg/build/lib
+creating /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg
+copying domo_python_pkg/subscriber.py -> /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg
+copying domo_python_pkg/__init__.py -> /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg
+copying domo_python_pkg/publisher.py -> /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg
+running install
+running install_lib
+creating /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg
+copying /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg/subscriber.py -> /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg
+copying /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg/__init__.py -> /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg
+copying /home/mark-li/robot_ws/build/domo_python_pkg/build/lib/domo_python_pkg/publisher.py -> /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg
+byte-compiling /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg/subscriber.py to subscriber.cpython-310.pyc
+byte-compiling /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg/publisher.py to publisher.cpython-310.pyc
+running install_data
+creating /home/mark-li/robot_ws/install/domo_python_pkg/share/ament_index
+creating /home/mark-li/robot_ws/install/domo_python_pkg/share/ament_index/resource_index
+creating /home/mark-li/robot_ws/install/domo_python_pkg/share/ament_index/resource_index/packages
+copying resource/domo_python_pkg -> /home/mark-li/robot_ws/install/domo_python_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/mark-li/robot_ws/install/domo_python_pkg/share/domo_python_pkg
+running install_egg_info
+Copying ../../build/domo_python_pkg/domo_python_pkg.egg-info to /home/mark-li/robot_ws/install/domo_python_pkg/lib/python3.10/site-packages/domo_python_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/mark-li/robot_ws/build/domo_python_pkg/install.log'

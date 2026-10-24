@@ -1,0 +1,40 @@
+running egg_info
+creating ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info
+writing ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/PKG-INFO
+writing dependency_links to ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/dependency_links.txt
+writing entry points to ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/entry_points.txt
+writing requirements to ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/requires.txt
+writing top-level names to ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/top_level.txt
+writing manifest file '../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/SOURCES.txt'
+reading manifest file '../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mark-li/robot_ws/build/swjtu_robocon_nb/build
+creating /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib
+creating /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb
+copying swjtu_robocon_nb/stu_info_sub.py -> /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb
+copying swjtu_robocon_nb/__init__.py -> /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb
+copying swjtu_robocon_nb/stu_info_pub.py -> /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb
+running install
+running install_lib
+creating /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb
+copying /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb/stu_info_sub.py -> /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb
+copying /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb/__init__.py -> /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb
+copying /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb/stu_info_pub.py -> /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb
+byte-compiling /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb/stu_info_sub.py to stu_info_sub.cpython-310.pyc
+byte-compiling /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb/stu_info_pub.py to stu_info_pub.cpython-310.pyc
+running install_data
+creating /home/mark-li/robot_ws/install/swjtu_robocon_nb/share/ament_index
+creating /home/mark-li/robot_ws/install/swjtu_robocon_nb/share/ament_index/resource_index
+creating /home/mark-li/robot_ws/install/swjtu_robocon_nb/share/ament_index/resource_index/packages
+copying resource/swjtu_robocon_nb -> /home/mark-li/robot_ws/install/swjtu_robocon_nb/share/ament_index/resource_index/packages
+copying package.xml -> /home/mark-li/robot_ws/install/swjtu_robocon_nb/share/swjtu_robocon_nb
+running install_egg_info
+Copying ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info to /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb-0.0.0-py3.10.egg-info
+running install_scripts
+Installing stu_info_pub script to /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/swjtu_robocon_nb
+Installing stu_info_sub script to /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/swjtu_robocon_nb
+writing list of installed files to '/home/mark-li/robot_ws/build/swjtu_robocon_nb/install.log'

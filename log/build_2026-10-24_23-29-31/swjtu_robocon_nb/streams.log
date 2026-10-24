@@ -1,0 +1,42 @@
+[0.292s] Invoking command in '/home/mark-li/robot_ws/src/swjtu_robocon_nb': PYTHONPATH=/home/mark-li/robot_ws/build/swjtu_robocon_nb/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/swjtu_robocon_nb build --build-base /home/mark-li/robot_ws/build/swjtu_robocon_nb/build install --record /home/mark-li/robot_ws/build/swjtu_robocon_nb/install.log --install-scripts $base/lib/swjtu_robocon_nb --single-version-externally-managed install_data
+[0.411s] running egg_info
+[0.411s] creating ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info
+[0.411s] writing ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/PKG-INFO
+[0.411s] writing dependency_links to ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/dependency_links.txt
+[0.411s] writing entry points to ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/entry_points.txt
+[0.411s] writing requirements to ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/requires.txt
+[0.411s] writing top-level names to ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/top_level.txt
+[0.411s] writing manifest file '../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/SOURCES.txt'
+[0.412s] reading manifest file '../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/SOURCES.txt'
+[0.412s] adding license file 'LICENSE'
+[0.412s] writing manifest file '../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info/SOURCES.txt'
+[0.412s] running build
+[0.412s] running build_py
+[0.412s] creating /home/mark-li/robot_ws/build/swjtu_robocon_nb/build
+[0.412s] creating /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib
+[0.413s] creating /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb
+[0.413s] copying swjtu_robocon_nb/stu_info_sub.py -> /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb
+[0.413s] copying swjtu_robocon_nb/__init__.py -> /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb
+[0.413s] copying swjtu_robocon_nb/stu_info_pub.py -> /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb
+[0.413s] running install
+[0.413s] running install_lib
+[0.413s] creating /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb
+[0.413s] copying /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb/stu_info_sub.py -> /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb
+[0.413s] copying /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb/__init__.py -> /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb
+[0.413s] copying /home/mark-li/robot_ws/build/swjtu_robocon_nb/build/lib/swjtu_robocon_nb/stu_info_pub.py -> /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb
+[0.414s] byte-compiling /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb/stu_info_sub.py to stu_info_sub.cpython-310.pyc
+[0.414s] byte-compiling /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb/__init__.py to __init__.cpython-310.pyc
+[0.414s] byte-compiling /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb/stu_info_pub.py to stu_info_pub.cpython-310.pyc
+[0.414s] running install_data
+[0.414s] creating /home/mark-li/robot_ws/install/swjtu_robocon_nb/share/ament_index
+[0.414s] creating /home/mark-li/robot_ws/install/swjtu_robocon_nb/share/ament_index/resource_index
+[0.414s] creating /home/mark-li/robot_ws/install/swjtu_robocon_nb/share/ament_index/resource_index/packages
+[0.414s] copying resource/swjtu_robocon_nb -> /home/mark-li/robot_ws/install/swjtu_robocon_nb/share/ament_index/resource_index/packages
+[0.414s] copying package.xml -> /home/mark-li/robot_ws/install/swjtu_robocon_nb/share/swjtu_robocon_nb
+[0.414s] running install_egg_info
+[0.415s] Copying ../../build/swjtu_robocon_nb/swjtu_robocon_nb.egg-info to /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages/swjtu_robocon_nb-0.0.0-py3.10.egg-info
+[0.415s] running install_scripts
+[0.426s] Installing stu_info_pub script to /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/swjtu_robocon_nb
+[0.426s] Installing stu_info_sub script to /home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/swjtu_robocon_nb
+[0.427s] writing list of installed files to '/home/mark-li/robot_ws/build/swjtu_robocon_nb/install.log'
+[0.442s] Invoked command in '/home/mark-li/robot_ws/src/swjtu_robocon_nb' returned '0': PYTHONPATH=/home/mark-li/robot_ws/build/swjtu_robocon_nb/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mark-li/robot_ws/install/swjtu_robocon_nb/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/swjtu_robocon_nb build --build-base /home/mark-li/robot_ws/build/swjtu_robocon_nb/build install --record /home/mark-li/robot_ws/build/swjtu_robocon_nb/install.log --install-scripts $base/lib/swjtu_robocon_nb --single-version-externally-managed install_data
